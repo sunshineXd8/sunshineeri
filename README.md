@@ -1,5 +1,5 @@
 # sunshineeri
-### Boas vindas ao meu perfil :blue_heart
+### Boas vindas ao meu perfil 💙
 
 Meu nome é Sunshine
 
@@ -7,7 +7,4 @@ Meu nome é Sunshine
 - Estou me desenvolvendo na linguagem JavaScript
 - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
-### Você pode entrar em contato comigo :mailbox
 
-
-![descrição do GIF](link GIF do Tenor)
